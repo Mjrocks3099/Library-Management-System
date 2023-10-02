@@ -8,7 +8,7 @@ Python (I used v3.9.1)
 PIP (for python modules installation)
 
 Setup/Installation
-Download and Extract the provided source code zip file. (download button is located below)
+Download and Extract the provided source code zip file. 
 Open your Terminal/Command Prompt window. (make sure to add "python" and "pip" in your environment variables)
 Change the working directory to the extracted source code folder. i.e. cd C:\Users\Personal-23\Desktop\django_lms
 Run the following commands:
