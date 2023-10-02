@@ -3,7 +3,7 @@
 
  
 How to Run
-Download/Install the following
+Download/Install the following<br>
 Python (I used v3.9.1)
 PIP (for python modules installation)
 
